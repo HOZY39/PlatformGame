@@ -16,6 +16,11 @@ Platform game with few levels. The goal is to get to the chicken.
         <img src="img_readme/2.png" width="300px" />
       </a>
     </td>
+    <td>
+      <a href="img_readme/2.png">
+        <img src="img_readme/2.png" width="300px" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
