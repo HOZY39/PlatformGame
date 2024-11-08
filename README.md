@@ -1,8 +1,21 @@
-# PlatformGame
+# Platform Game
 
-This project was made around 2019 when I was 16 yo.
-Everything (except menu img) was made by me.
-Platform game with few levels. The goal is to get to the chicken.
+This project was created around 2019 when I was 16 years old.  
+Everything (except for the menu image) was made by me.  
+
+## Game Overview
+This is a platform game with several levels. The goal is to reach the chicken at the end of each level.
+
+## Features
+- **Levels**: The game contains multiple levels with increasing difficulty.
+- **Goal**: The main objective is to navigate through the levels and reach the chicken.
+- **Graphics**: All graphics were created by me (except for the menu image).
+
+## How to Play
+1. Move your character through the platform levels.
+2. Avoid obstacles (fire).
+3. Reach the chicken to complete the level!
+
 
 <table>
   <tr>
